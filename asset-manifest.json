@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/breaking-bad-quiz/static/css/main.afd7172b.chunk.css",
-    "main.js": "/breaking-bad-quiz/static/js/main.929bb25e.chunk.js",
-    "main.js.map": "/breaking-bad-quiz/static/js/main.929bb25e.chunk.js.map",
+    "main.js": "/breaking-bad-quiz/static/js/main.fd9e778d.chunk.js",
+    "main.js.map": "/breaking-bad-quiz/static/js/main.fd9e778d.chunk.js.map",
     "runtime-main.js": "/breaking-bad-quiz/static/js/runtime-main.0b3573ae.js",
     "runtime-main.js.map": "/breaking-bad-quiz/static/js/runtime-main.0b3573ae.js.map",
-    "static/js/2.2c0e73ba.chunk.js": "/breaking-bad-quiz/static/js/2.2c0e73ba.chunk.js",
-    "static/js/2.2c0e73ba.chunk.js.map": "/breaking-bad-quiz/static/js/2.2c0e73ba.chunk.js.map",
+    "static/js/2.53350ab1.chunk.js": "/breaking-bad-quiz/static/js/2.53350ab1.chunk.js",
+    "static/js/2.53350ab1.chunk.js.map": "/breaking-bad-quiz/static/js/2.53350ab1.chunk.js.map",
     "index.html": "/breaking-bad-quiz/index.html",
     "static/css/main.afd7172b.chunk.css.map": "/breaking-bad-quiz/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.2c0e73ba.chunk.js.LICENSE.txt": "/breaking-bad-quiz/static/js/2.2c0e73ba.chunk.js.LICENSE.txt"
+    "static/js/2.53350ab1.chunk.js.LICENSE.txt": "/breaking-bad-quiz/static/js/2.53350ab1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.0b3573ae.js",
-    "static/js/2.2c0e73ba.chunk.js",
+    "static/js/2.53350ab1.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.929bb25e.chunk.js"
+    "static/js/main.fd9e778d.chunk.js"
   ]
 }
